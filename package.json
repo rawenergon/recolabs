@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@hackclub/banner": "^1.1.1"
+  }
+}
